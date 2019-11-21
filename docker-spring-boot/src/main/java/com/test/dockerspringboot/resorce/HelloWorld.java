@@ -11,7 +11,8 @@ public class HelloWorld {
 	@GetMapping
 	public String Hello()
 	{
-		return "Hello World Example ";
+		System.out.println("Added the two number ");
+		return "Hello World Example 1234567 ";
 	}
 
 }
