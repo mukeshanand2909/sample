@@ -12,7 +12,7 @@ public class HelloWorld {
 	public String Hello()
 	{
 		System.out.println("Added the two number ");
-		return "Hello World";
+		return "Hello World new ";
 	}
 
 }
